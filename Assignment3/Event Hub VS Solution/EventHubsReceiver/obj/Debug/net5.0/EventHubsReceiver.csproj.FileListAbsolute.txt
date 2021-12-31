@@ -1,0 +1,156 @@
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.exe
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.deps.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.runtimeconfig.dev.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\ref\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\EventHubsReceiver.pdb
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Core.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Messaging.EventHubs.Processor.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\bin\Debug\net5.0\System.Memory.Data.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.AssemblyReference.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfoInputs.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.AssemblyInfo.cs
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CoreCompileInputs.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.csproj.CopyComplete
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\ref\EventHubsReceiver.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.pdb
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsReceiver\obj\Debug\net5.0\EventHubsReceiver.genruntimeconfig.cache

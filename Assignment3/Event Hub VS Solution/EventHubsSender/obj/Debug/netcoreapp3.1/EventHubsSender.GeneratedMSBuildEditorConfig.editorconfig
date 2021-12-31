@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EventHubsSender
+build_property.ProjectDir = D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\

@@ -1,0 +1,140 @@
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\Sender\Sender\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Content\Week 9\Event Hub\Experiment 1\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+C:\Users\ezebe\OneDrive\Research\Courses\ELG 5166 - Cloud Analytics - Fall 2021\Labs\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.pdb
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+D:\DEBI\uOttawa\Cloud\lab9\Lab 9 - Event Hubs & Stream Analytics\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.exe
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.deps.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.runtimeconfig.dev.json
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventHubsSender.pdb
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\bin\Debug\netcoreapp3.1\EventModel.pdb
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.AssemblyReference.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfoInputs.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.AssemblyInfo.cs
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CoreCompileInputs.cache
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.csproj.CopyComplete
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.dll
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.pdb
+D:\DEBI\uOttawa\Cloud\ASGN3\Event Hub VS Solution\EventHubsSender\obj\Debug\netcoreapp3.1\EventHubsSender.genruntimeconfig.cache
